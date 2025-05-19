@@ -13,4 +13,4 @@ A modern, responsive Tic Tac Toe game built with React and Tailwind CSS, featuri
 
 ## Live Demo
 
-Check out the live demo: [React Tic Tac Toe Game](https://shulajz.github.io/react-tictactoe/)
+Check out the live demo: [React Tic Tac Toe Game](https://shulajz.github.io/tic-tac-toe/)
